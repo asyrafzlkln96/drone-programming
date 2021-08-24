@@ -1,9 +1,8 @@
 # drone-programming
-Projects related with Drone. All code are written in Python language
+Projects related with Drone. All code are written in *Python language*
 
 # Usage
-pip install djitellopy
-pip install opencv-python
+pip install djitellopy opencv-python
 
 # Description of Drone Projects
 
