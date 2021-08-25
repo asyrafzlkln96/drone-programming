@@ -12,6 +12,7 @@ pip install djitellopy opencv-python
 | Project 2     | Mapping            |
 | Project 3     | Face Tracking      |
 | Project 4     | Line follower Drone|
+| Project 5     | Gesture Recognition|
 
 # Reference
 All references are from Github and Youtube.
