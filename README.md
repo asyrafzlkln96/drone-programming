@@ -1,5 +1,5 @@
 # drone-programming
-Projects related with Drone. All code are written in *Python language*
+Projects related with Drone.In this project I am using Tello Drone as it can be written with Python.
 
 # Usage
 pip install djitellopy opencv-python
